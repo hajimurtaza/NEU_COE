@@ -27,7 +27,7 @@ Dodge Hall 150
 INFO 7390. Sec 01 Advances in Data Sciences and Architecture   
 T 11:45AM-1:25PM     
 R 2:50-4:30PM   
-Forsyth Building 129   
+Snell Library 015 
 
 INFO 7390. Sec 02 Advances in Data Sciences and Architecture   
 MWR 9:15-10:20AM    
