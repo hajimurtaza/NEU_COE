@@ -24,3 +24,15 @@
 
 * _A Primer on Scientific Programming with Python_ Hans Petter Langtangen in Texts in Computational Science and Engineering (2014) [https://link.springer.com/book/10.1007/978-3-642-54959-5](https://link.springer.com/book/10.1007/978-3-642-54959-5) 
 
+
+## Deep Learning
+
+* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (Dec 2014)
+* [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
+* [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
+* [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
+* [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
+* [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+* [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
+
