@@ -27,12 +27,12 @@
 
 ## Deep Learning
 
-* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (Dec 2014)
-* [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
-* [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
-* [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
-* [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
-* [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-* [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
+* _Deep Learning_Yoshua Bengio, Ian Goodfellow and Aaron Courville (2015) [http://www.iro.umontreal.ca/~bengioy/dlbook/](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* _Neural Networks and Deep Learning_ Michael Nielsen (Dec 2014) [http://neuralnetworksanddeeplearning.com/]http://neuralnetworksanddeeplearning.com/)
+* _Deep Learning_  Microsoft Research (2013) [http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)   
+* _Deep Learning Tutorial_ LISA lab, University of Montreal (2015) [http://deeplearning.net/tutorial/deeplearning.pdf](http://deeplearning.net/tutorial/deeplearning.pdf)
+* _neuraltalk_ Andrej Karpathy : numpy-based RNN/LSTM implementation [https://github.com/karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) 
+* _An introduction to genetic algorithms_ [https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
+* _Artificial Intelligence: A Modern Approach_ [http://aima.cs.berkeley.edu/](http://aima.cs.berkeley.edu/)
+* _Deep Learning in Neural Networks: An Overview_ [http://arxiv.org/pdf/1404.7828v4.pdf](http://arxiv.org/pdf/1404.7828v4.pdf)
 
