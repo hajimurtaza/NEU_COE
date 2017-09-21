@@ -8,7 +8,7 @@
 
 * _Python Data Analytics - Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language_ Fabio Nelli (2015) [https://link.springer.com/book/10.1007/978-1-4842-0958-5](https://link.springer.com/book/10.1007/978-1-4842-0958-5) 
 
-* _Python for Probability, Statistics, and Machine Learning_ José Unpingco (2016) [https://link.springer.com/book/10.1007/978-3-319-30717-6] (https://link.springer.com/book/10.1007/978-3-319-30717-6) 
+* _Python for Probability, Statistics, and Machine Learning_ José Unpingco (2016) [https://link.springer.com/book/10.1007/978-3-319-30717-6](https://link.springer.com/book/10.1007/978-3-319-30717-6) 
 
 * _Introduction to Data Science - A Python Approach to Concepts, Techniques and Applications_ Laura Igual, Santi Seguí in Undergraduate Topics in Computer Science (2017) [https://link.springer.com/book/10.1007/978-3-319-50017-1](https://link.springer.com/book/10.1007/978-3-319-50017-1) 
 
