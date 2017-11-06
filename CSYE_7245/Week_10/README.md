@@ -1,4 +1,4 @@
-# Deep_Learning 
+# Deep Learning 
 
 The [Deep Learning lessons](https://github.com/nikbearbrown/NEU_COE/tree/master/Deep_Learning
 ) are at [https://github.com/nikbearbrown/NEU_COE/tree/master/Deep_Learning](https://github.com/nikbearbrown/NEU_COE/tree/master/Deep_Learning
