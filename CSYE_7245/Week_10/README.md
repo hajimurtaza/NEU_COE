@@ -1,8 +1,10 @@
 # Deep_Learning 
 
-Experiments in Deep Learning with students and people at Northeastern University and Harvard University
+The [Deep Learning lessons](https://github.com/nikbearbrown/NEU_COE/tree/master/Deep_Learning
+) are at [https://github.com/nikbearbrown/NEU_COE/tree/master/Deep_Learning](https://github.com/nikbearbrown/NEU_COE/tree/master/Deep_Learning
+)   
 
-Deep Learning Slack
+## Deep Learning Slack
 
 For those interested we created a Deep Learning Slack
 [https://join.slack.com/t/fatweasel/signup](https://join.slack.com/t/fatweasel/signup)  
