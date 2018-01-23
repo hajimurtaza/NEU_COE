@@ -1,0 +1,18 @@
+## How to do a literature review
+
+* [http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=15161](http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=15161)  
+* [http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149)  
+* [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715443/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715443/)  
+* [http://www.monash.edu.au/lls/llonline/writing/science/lit-review/1.xml](http://www.monash.edu.au/lls/llonline/writing/science/lit-review/1.xml)  
+* [http://library.lincoln.ac.nz/Research/Writing-your-research/Literature-Reviews/Sample-literature-reviews/](http://library.lincoln.ac.nz/Research/Writing-your-research/Literature-Reviews/Sample-literature-reviews/)  
+* [http://www.coe.montana.edu/ee/rosss/Courses/EE578_Fall_2008/Writing%20a%20Review%20Paper.pdf](http://www.coe.montana.edu/ee/rosss/Courses/EE578_Fall_2008/Writing%20a%20Review%20Paper.pdf)  
+* [http://writingcenter.unc.edu/handouts/literature-reviews/](http://writingcenter.unc.edu/handouts/literature-reviews/)  
+* [http://writing.wisc.edu/Handbook/ReviewofLiterature.html](http://writing.wisc.edu/Handbook/ReviewofLiterature.html)  
+* [http://guides.library.ucsc.edu/write-a-literature-review](http://guides.library.ucsc.edu/write-a-literature-review)  
+* [http://www.duluth.umn.edu/~hrallis/guides/researching/litreview.html](http://www.duluth.umn.edu/~hrallis/guides/researching/litreview.html)  
+* [https://ithacalibrary.com/sp/assets/users/_lchabot/lit_rev_eg.pdf](https://ithacalibrary.com/sp/assets/users/_lchabot/lit_rev_eg.pdf)  
+* [http://www.lib.ncsu.edu/tutorials/litreview/](http://www.lib.ncsu.edu/tutorials/litreview/)   
+* [http://library.concordia.ca/help/howto/litreview.php](http://library.concordia.ca/help/howto/litreview.php)  
+* [http://library.bcu.ac.uk/learner/writingguides/1.04.htm](http://library.bcu.ac.uk/learner/writingguides/1.04.htm)  
+* [http://guides.library.vcu.edu/lit-review](http://guides.library.vcu.edu/lit-review)  
+* [http://www2.le.ac.uk/offices/ld/resources/writing/writing-resources/literature-review](http://www2.le.ac.uk/offices/ld/resources/writing/writing-resources/literature-review)  
