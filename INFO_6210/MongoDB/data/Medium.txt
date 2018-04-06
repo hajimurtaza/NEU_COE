@@ -1,0 +1,80 @@
+
+1. CLEAR
+A Hollywood producer once told me that directors can predict when their movies will make money. How? Simple. Do people walk out of the theater repeating something they heard word for word? If so, they become word-of-mouth advertisers. When people ask, “Seen any good movies lately?” they’re talking about your movie and marketing it to profitability.
+
+2. COMPELLING.
+You’ve got 60 seconds to capture an audience’s attention or else they’ll start checking email.
+
+
+
+Making data mean more through storytelling | Ben Wellington | TEDxBroadway https://youtu.be/6xsvGYIxJok 
+
+
+Focus on one major idea
+Ideas are complex things; you need to slash back your content so that you can focus on the single idea you’re most passionate about, and give yourself a chance to explain that one thing properly… Everything you say [should link] back to it in some way.
+
+Give people a reason to care
+Stir your audience’s curiosity. Use intriguing, provocative questions to identify why something doesn’t make sense and needs explaining. If you can reveal a disconnection in someone’s worldview, they’ll feel the need to bridge that knowledge gap.
+
+Build your idea with familiar concepts
+Build your idea, piece by piece, out of concepts that your audience already understands… A vivid explanation… delivers a satisfying ah-hah! moment as it snaps into place in our minds.
+
+
+ Try out your draft on a volunteer listener
+ 
+ 
+Did I explain my idea clearly?
+Was there anything in my talk that you didn’t follow?
+Was there anything you didn’t understand?
+Did anything seem out of place?
+Did I lose your interest anywhere?
+
+
+https://en.wikiversity.org/wiki/Technical_writing
+
+https://en.wikiversity.org/wiki/Technical_writing_overview
+
+How To Write Great Content – Content Marketing For Your Blog, Website, O... https://youtu.be/kJ6V76Zd05Q 
+
+How to write technical blog posts - talk by Quincy Larson https://youtu.be/YODPgBadj80 
+
+
+
+https://towardsdatascience.com/
+
+“Deploy TensorFlow models” by @FraZuppichini https://towardsdatascience.com/deploy-tensorflow-models-9813b5a705d5
+
+
+“Demystifying Deep Learning” by Gautam Ramachandra https://medium.com/@gautamrbharadwaj/demystifying-deep-learning-62ce95a6550c
+
+
+“Bitcoin price forecasting with deep learning algorithms” by @ibobriakov https://medium.com/activewizards-machine-learning-company/bitcoin-price-forecasting-with-deep-learning-algorithms-eb578a2387a3
+
+“Introduction to Markov Chains” by Devin Soni https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d
+
+“Machine Learning Workflow on Diabetes Data : Part 01” by @lahiru_tjay https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8
+
+“Using Deep Learning to improve FIFA 18 graphics” by Chintan Trivedi https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e
+
+“Controlling the Web with Python” by @koehrsen_will https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
+
+
+Keep it simple and include links to more information
+Coming back to writing for a high-schooler, your target reader also has a short attention span. He is easily distracted by cute kitten videos. So write with this in mind.
+
+Keep the information bite-sized and break big topics down into sections or even a series of posts.
+
+A good example of this is Fluid IT Service’s three-post series on the past, present and future of cloud computing. This series goes into great detail about the evolution of the cloud – but if that was all written as a single blog post, it would be almost impossible to read in one sitting! Wade Yeaman took a complex subject and broke it down into three digestible chunks.
+
+If you want to squeeze even more value out of your blog real estate, and you want to provide more information to satisfy voracious blog readers, just link to related posts. You can do this contextually – that is, hyperlinking text in a sentence – or you can call out articles for further reading at the end of your blog. You can even do both of these things in the same blog post. I promise the blog police won’t arrest you for it. In fact, linking to other posts that you wrote AND linking to posts that other people have written on a topic is really fantastic for your SEO (search engine optimization). I highly, highly recommend doing this.
+
+
+
+Consider Your Audience
+While we’re on the topic of page views, you should probably consider who it is that you’re writing for. Is it developers? Your product owner, scrum coach, or CEO? Maybe marketers or salespeople? What role do they play in the tech industry?
+
+It’s vital to have an idea of who you want to read your post. Knowing this enables you to answer an important question: what problem(s) does this person need to solve in order to do his/her job?
+
+When people face a difficulty that they don’t know how to solve, they google the answer. If your blog post comes up at the top of the search results, they’ll probably read it. On the other hand, some folks will look for the answers to their questions in other places online. Where does your target audience spend their time? Are they hanging out on Reddit, Stack Exchange, or Quora? Think about how you can get your post there, and write it such that it will be accepted by that online community
+
+
